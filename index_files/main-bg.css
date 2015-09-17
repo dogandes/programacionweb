@@ -1,0 +1,114 @@
+/*MAIN-BG.CSS*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*This is main CSS file that intializes BG Images used in this template*/
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* Template Name: NEXUS.*/
+/* Author: Designova.*/
+/* Website: http://www.designova.net */
+/* Copyright: (C) 2014 */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------*/
+/* INTRO / HOME VARIANTS */
+/*--------------------------------------------------------------*/
+.intro-01{
+	background-image: url('../images/bg/01.jpg');
+}
+.intro-02{
+	background-image: url('../images/bg/01.jpg');
+}
+.intro-03-carousel-item-01{
+    background-image:url('../images/bg/05.jpg');
+}
+.intro-03-carousel-item-02{
+    background-image:url('../images/bg/04.jpg');
+}
+.intro-03-carousel-item-03{
+    background-image:url('../images/bg/06.jpg');
+}
+.intro-07-bg{
+    background-image:url('../images/bg/tiles.jpg');
+}
+.intro-08-bg{
+    background-image:url('../images/bg/tiles.jpg');
+}
+
+/*--------------------------------------------------------------*/
+/* CALL TO ACTIONS & SECTIONS */
+/*--------------------------------------------------------------*/
+.call-to-action-01{
+	background-image: url('../images/parallax/01.jpg');
+}
+
+/*--------------------------------------------------------------*/
+/* CONTACT PAGE SECTIONS */
+/*--------------------------------------------------------------*/
+.contact-head{
+	background-image: url('../images/bg/01.jpg');
+}
+
+/*--------------------------------------------------------------*/
+/* SERVICES PAGE SECTIONS */
+/*--------------------------------------------------------------*/
+.service-head{
+	background-image: url('../images/bg/01.jpg');
+}
+
+
+/*--------------------------------------------------------------*/
+/* NEWS POSTS IMAGES */
+/*--------------------------------------------------------------*/
+.news-block-00.show-img{
+	background-image: url('../images/news/00.jpg');
+}
+.news-block-01.show-img{
+	background-image: url('../images/news/01.jpg');
+}
+.news-block-02.show-img{
+	background-image: url('../images/news/02.jpg');
+}
+.news-block-03.show-img{
+	background-image: url('../images/news/03.jpg');
+}
+.news-block-04.show-img{
+	background-image: url('../images/news/04.jpg');
+}
+.news-block-05.show-img{
+	background-image: url('../images/news/05.jpg');
+}
+.news-block-06.show-img{
+	background-image: url('../images/news/06.jpg');
+}
+.news-post-01{
+	background-image: url('../images/bg/06.jpg');
+}
+
+/*--------------------------------------------------------------*/
+/* SINGLE PROJECT PAGE IMAGES */
+/*--------------------------------------------------------------*/
+.single-project-01{
+	background-image: url('../images/bg/07.jpg');
+}
+
+/*--------------------------------------------------------------*/
+/* MISC ELEMENTS */
+/*--------------------------------------------------------------*/
+.poster-img{
+	background-image:url('../images/poster.jpg') !important;
+}
+.mastnav{
+	background-image:url('../images/menu.jpg');
+}
+.team-wall-bg{
+	background-image:url('../images/team/wall.jpg');
+}
+.uc-bg{
+	background-image: url('../images/bg/01.jpg');
+}
+.error404-bg{
+	background-image: url('../images/bg/01.jpg');
+}
+.thanks-bg{
+	background-image: url('../images/bg/01.jpg');
+}

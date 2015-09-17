@@ -1,0 +1,16 @@
+.intro-caption{
+	padding: 60px;
+}
+
+.intro h1{
+	font-size: 36px;
+	line-height: 43px;
+	font-weight: 200;
+	margin-bottom: 20px;
+}
+.intro a.explore{
+	font-size: 18px;
+	line-height: 25px;
+	font-style: italic;
+	cursor: pointer;
+}
